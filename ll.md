@@ -1,3 +1,12 @@
 # Low-lvl things:
 1. [Linux Kernel Docs](https://www.kernel.org/doc/html/latest/index.html)
 2. [Advanced Configuration and Power Interface - ACPI](https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface)
+3. [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+4. [PE Format](https://docs.microsoft.com/pl-pl/windows/win32/debug/pe-format)
+   * [Differences between app .(dot) segments](https://stackoverflow.com/questions/19012300/whats-the-difference-between-rdata-and-idata-segments)
+5. [File signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
+6. [Some Magic numbers](https://en.wikipedia.org/wiki/Magic_number_(programming))
+   * [Hexspeak](https://en.wikipedia.org/wiki/Hexspeak)
+   * [Magic string](https://en.wikipedia.org/wiki/Magic_string)
+7. [Buffer overflow protection](https://en.wikipedia.org/wiki/Buffer_overflow_protection)
+8. [Sentinel value](https://en.wikipedia.org/wiki/Sentinel_value)
