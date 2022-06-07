@@ -6,3 +6,4 @@
    * [containerd](https://containerd.io/)
    * [OPI](https://opencontainers.org/)
    * [CNI](https://www.cni.dev/)
+4. [Myers Diff Algorithm](https://blog.robertelder.org/diff-algorithm/)
