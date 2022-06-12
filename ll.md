@@ -10,3 +10,4 @@
    * [Magic string](https://en.wikipedia.org/wiki/Magic_string)
 7. [Buffer overflow protection](https://en.wikipedia.org/wiki/Buffer_overflow_protection)
 8. [Sentinel value](https://en.wikipedia.org/wiki/Sentinel_value)
+9. [https://wiki.gentoo.org/wiki/Kernel_Deblobing](https://wiki.gentoo.org/wiki/Kernel_Deblobing)
