@@ -11,3 +11,4 @@
 7. [Buffer overflow protection](https://en.wikipedia.org/wiki/Buffer_overflow_protection)
 8. [Sentinel value](https://en.wikipedia.org/wiki/Sentinel_value)
 9. [Kernel Deblobing](https://wiki.gentoo.org/wiki/Kernel_Deblobing)
+10. [Graphic Algorithms FAQ](http://www.faqs.org/faqs/graphics/algorithms-faq/)
