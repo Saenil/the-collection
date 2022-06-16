@@ -1,3 +1,3 @@
 # Things related to Tutorials & other learning resources:
 1. [Learn Tutorials](https://learntutorials.net/)
-2. [Rosetta Code](https://www.rosettacode.org/wiki/Rosetta_Code)
+2. [Rosetta Code](https://www.rosettacode.org/wiki/Rosetta_Code) - "_Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another. Rosetta Code currently has 1,185 tasks, 350 draft tasks, and is aware of 867 languages, though we do not (and cannot) have solutions to every task in every language._"
