@@ -6,3 +6,4 @@
 5. [Icon Icons](https://icon-icons.com/)
 6. [XUL Runner](https://en.wikipedia.org/wiki/XULRunner)
 7. [Paletton](https://paletton.com)
+8. [PANTONE® Colours](https://www.pantone-colours.com/)
