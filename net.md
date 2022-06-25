@@ -4,3 +4,5 @@
 3. [XMPP - "The universal messaging standard. Tried and tested. Independent. Privacy-focused."](https://xmpp.org/)
    * [Fat Markup: Trimming the Fat Markup Myth one calorie at a time](https://www.balisage.net/Proceedings/vol10/html/Lee01/BalisageVol10-Lee01.html)
 4. [WebRTC - realtime communication protocol (and of-f\*cking-course there is ggl...)](https://webrtc.org/)
+5. [Gopher](http://27.org/gopher-manifesto/)
+   * [Quux](http://gopher.quux.org:70/)
