@@ -10,3 +10,4 @@
 6. k-anonymity:
    * [Wikipedia](https://en.wikipedia.org/wiki/K-anonymity)
    * [Example](https://github.com/ajayyy/SponsorBlock/wiki/K-Anonymity)
+   * [Validating Leaked Passwords with k-Anonymity](https://blog.cloudflare.com/validating-leaked-passwords-with-k-anonymity/)
