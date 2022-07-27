@@ -7,3 +7,4 @@
    * [OPI](https://opencontainers.org/)
    * [CNI](https://www.cni.dev/)
 4. [Myers Diff Algorithm](https://blog.robertelder.org/diff-algorithm/)
+5. [Sound Programming](https://soundprogramming.net/)
