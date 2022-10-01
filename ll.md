@@ -12,3 +12,4 @@
 8. [Sentinel value](https://en.wikipedia.org/wiki/Sentinel_value)
 9. [Kernel Deblobing](https://wiki.gentoo.org/wiki/Kernel_Deblobing)
 10. [Graphic Algorithms FAQ](http://www.faqs.org/faqs/graphics/algorithms-faq/)
+11. [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
