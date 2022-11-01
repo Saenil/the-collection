@@ -14,3 +14,4 @@
 7. [I have used FreeOTP, Google Authenticator, Authy, and LastPass Authenticator...](https://news.ycombinator.com/item?id=15692691)
    * [Reversing the Symantec VIP Access Provisioning Protocol](https://www.cyrozap.com/2014/09/29/reversing-the-symantec-vip-access-provisioning-protocol/)
 8. [How (and why) to sign Git commits](https://withblue.ink/2020/05/17/how-and-why-to-sign-git-commits.html)
+9. [Electrovolt Blog](https://blog.electrovolt.io/)
